@@ -8,6 +8,7 @@ impl<T, U>Point<T,U> {
         return Point {
             x: self.x,
             y: another.y
+        }
     }
 }
 
