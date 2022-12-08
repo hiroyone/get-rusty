@@ -39,7 +39,7 @@ async fn main(){
 // #[tokio::main]
 // async fn main(){
 //     // block_on(my_function());
-//     let f = my_function();
+//     let f = my_function(0);
 //     println!("Hello Rusty!");
 //     f.await;
 // }
